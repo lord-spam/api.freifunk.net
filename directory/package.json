@@ -1,0 +1,11 @@
+{
+  "name": "api.freifunk.net-tests",
+  "description": "tests directory entries against the json spec",
+  "dependencies": {
+    "mocha": "~1.13.0",
+    "JSV": "~4.0.2"
+  },
+  "scripts": {
+    "test": "mocha test.js"
+  }
+}
